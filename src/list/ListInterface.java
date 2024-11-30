@@ -9,7 +9,7 @@ public interface ListInterface<E> {
     public void set(int i, E x);
     public int indexOf(E i);
     public int len();
-    public boolean isEmpty(int i);
+    public boolean isEmpty();
     public void clear();
 
 
