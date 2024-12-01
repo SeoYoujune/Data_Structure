@@ -1,6 +1,6 @@
 package list;
 
-public class Node <E> {
+public class Node<E> {
     public E item;
     public Node<E> next;
 

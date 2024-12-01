@@ -1,7 +1,5 @@
 package list;
 
-import java.security.PublicKey;
-
 public class LinkedList<E> implements ListInterface<E> {
     private Node<E> head;
     private int numItem;
